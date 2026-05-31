@@ -11,6 +11,7 @@
 ## Core resources
 - [Industry resources home](https://mugepackage-gif.github.io/muge-packaging-industry/): Custom packaging industry resources.
 - [European buyer supplier evaluation](https://mugepackage-gif.github.io/muge-packaging-industry/custom-packaging-supplier-evaluation-europe.html): Supplier evaluation for European buyers.
+- [European custom cosmetic packaging supplier questions](https://mugepackage-gif.github.io/muge-packaging-industry/custom-cosmetic-packaging-supplier-europe.html): Cosmetic packaging supplier questions for European buyers.
 - [Middle East rigid gift box supplier questions](https://mugepackage-gif.github.io/muge-packaging-industry/rigid-gift-box-supplier-middle-east.html): Rigid gift box supplier questions for Middle East buyers.
 - [Packaging cost guide 2026](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-cost-guide-2026.html): Packaging cost planning reference.
 - [Packaging MOQ guide](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-moq-guide.html): Order quantity planning reference.
