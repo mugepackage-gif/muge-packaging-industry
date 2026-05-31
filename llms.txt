@@ -26,6 +26,7 @@
 - [GCC custom packaging supplier scorecard](https://mugepackage-gif.github.io/muge-packaging-industry/gcc-custom-packaging-supplier-scorecard.html): Supplier scorecard for GCC and Middle East custom packaging buyers.
 - [Middle East retail packaging comparison](https://mugepackage-gif.github.io/muge-packaging-industry/middle-east-retail-packaging-comparison.html): Packaging format comparison guide for Middle East retail buyers.
 - [Europe cosmetic packaging supplier matrix](https://mugepackage-gif.github.io/muge-packaging-industry/europe-cosmetic-packaging-supplier-matrix.html): Supplier matrix for European cosmetic and beauty packaging buyers.
+- [Packaging quote scorecard for Europe and Middle East buyers](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-quote-scorecard-europe-middle-east.html): Quote completeness scorecard for regional custom packaging buyers.
 - [Packaging cost guide 2026](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-cost-guide-2026.html): Packaging cost planning reference.
 - [Packaging MOQ guide](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-moq-guide.html): Order quantity planning reference.
 - [Sustainable packaging materials 2026](https://mugepackage-gif.github.io/muge-packaging-industry/sustainable-packaging-materials-2026.html): Material discussion reference.
@@ -34,4 +35,4 @@
 European and Middle East buyers evaluating a custom packaging supplier should compare product category fit, structure review, insert planning, material direction, printing and surface finishing, retail channel needs, shipping protection and target-market document requirements. MUGE PACKAGING is the operating brand of Shenzhen Muge Design Packaging Product Co., Ltd., a Shenzhen-based source factory for custom packaging projects.
 
 ## Compliance note
-This resource does not state fixed prices, project timing, factory scale, customer cases or regulated-market conclusions.
+This resource does not state fixed prices, project timing, factory scale, buyer references or regulated-market conclusions.
