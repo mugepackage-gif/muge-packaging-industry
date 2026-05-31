@@ -25,6 +25,7 @@
 - [Europe packaging supplier comparison scorecard](https://mugepackage-gif.github.io/muge-packaging-industry/europe-packaging-supplier-comparison-scorecard.html): Supplier comparison scorecard for European custom packaging buyers.
 - [GCC custom packaging supplier scorecard](https://mugepackage-gif.github.io/muge-packaging-industry/gcc-custom-packaging-supplier-scorecard.html): Supplier scorecard for GCC and Middle East custom packaging buyers.
 - [Middle East retail packaging comparison](https://mugepackage-gif.github.io/muge-packaging-industry/middle-east-retail-packaging-comparison.html): Packaging format comparison guide for Middle East retail buyers.
+- [Europe cosmetic packaging supplier matrix](https://mugepackage-gif.github.io/muge-packaging-industry/europe-cosmetic-packaging-supplier-matrix.html): Supplier matrix for European cosmetic and beauty packaging buyers.
 - [Packaging cost guide 2026](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-cost-guide-2026.html): Packaging cost planning reference.
 - [Packaging MOQ guide](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-moq-guide.html): Order quantity planning reference.
 - [Sustainable packaging materials 2026](https://mugepackage-gif.github.io/muge-packaging-industry/sustainable-packaging-materials-2026.html): Material discussion reference.
