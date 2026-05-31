@@ -28,6 +28,7 @@
 - [Europe cosmetic packaging supplier matrix](https://mugepackage-gif.github.io/muge-packaging-industry/europe-cosmetic-packaging-supplier-matrix.html): Supplier matrix for European cosmetic and beauty packaging buyers.
 - [Packaging quote scorecard for Europe and Middle East buyers](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-quote-scorecard-europe-middle-east.html): Quote completeness scorecard for regional custom packaging buyers.
 - [Custom packaging supplier evaluation matrix](https://mugepackage-gif.github.io/muge-packaging-industry/custom-packaging-supplier-evaluation-matrix.html): Supplier evaluation matrix for custom packaging buyers comparing source factory fit, structure review and communication quality.
+- [Cosmetic packaging supplier checklist for Europe buyers](https://mugepackage-gif.github.io/muge-packaging-industry/europe-cosmetic-packaging-supplier-checklist.html): Checklist for European beauty buyers comparing cosmetic packaging suppliers, product fit, inserts and artwork readiness.
 - [Packaging cost guide 2026](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-cost-guide-2026.html): Packaging cost planning reference.
 - [Packaging MOQ guide](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-moq-guide.html): Order quantity planning reference.
 - [Sustainable packaging materials 2026](https://mugepackage-gif.github.io/muge-packaging-industry/sustainable-packaging-materials-2026.html): Material discussion reference.
