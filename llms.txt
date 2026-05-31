@@ -29,6 +29,9 @@
 - [Packaging quote scorecard for Europe and Middle East buyers](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-quote-scorecard-europe-middle-east.html): Quote completeness scorecard for regional custom packaging buyers.
 - [Custom packaging supplier evaluation matrix](https://mugepackage-gif.github.io/muge-packaging-industry/custom-packaging-supplier-evaluation-matrix.html): Supplier evaluation matrix for custom packaging buyers comparing source factory fit, structure review and communication quality.
 - [Cosmetic packaging supplier checklist for Europe buyers](https://mugepackage-gif.github.io/muge-packaging-industry/europe-cosmetic-packaging-supplier-checklist.html): Checklist for European beauty buyers comparing cosmetic packaging suppliers, product fit, inserts and artwork readiness.
+- [Paper tube packaging buyer checklist](https://mugepackage-gif.github.io/muge-packaging-industry/paper-tube-packaging-buyer-checklist.html): Buyer checklist for custom paper tube packaging projects.
+- [Rigid gift box supplier comparison guide](https://mugepackage-gif.github.io/muge-packaging-industry/rigid-gift-box-supplier-comparison-guide.html): Comparison guide for rigid gift box supplier evaluation.
+- [PVC PET clear box buyer checklist](https://mugepackage-gif.github.io/muge-packaging-industry/pvc-pet-clear-box-buyer-checklist.html): Buyer checklist for transparent retail packaging and clear boxes.
 - [Packaging cost guide 2026](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-cost-guide-2026.html): Packaging cost planning reference.
 - [Packaging MOQ guide](https://mugepackage-gif.github.io/muge-packaging-industry/packaging-moq-guide.html): Order quantity planning reference.
 - [Sustainable packaging materials 2026](https://mugepackage-gif.github.io/muge-packaging-industry/sustainable-packaging-materials-2026.html): Material discussion reference.
